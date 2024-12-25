@@ -1,2 +1,2 @@
 # odin-recipes
-"This is a test sentence. That I am not sure of."
+"These recipes might not produce real results."
